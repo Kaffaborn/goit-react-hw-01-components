@@ -24,7 +24,7 @@ export const App = () => {
         stats={ data }
       />
       <FriendList friends={ friends } />
-       <TransactionHistory transactions={ transactions} />
+      <TransactionHistory transactions={ transactions} />
       </>
   );
 };
